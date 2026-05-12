@@ -26,8 +26,6 @@ Student → Course ← Faculty
 
 Formula fields automatically calculate values using other fields. For example, Total Fees can be calculated using Tuition Fees and Hostel Fees.
 
-Example:
-```text id="b2j3dj"
 Tuition_Fees + Hostel_Fees
 5. Validation Rules
 Validation rules prevent incorrect data from being saved. For example, a student age should not be less than 16.
